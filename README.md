@@ -161,12 +161,12 @@ Possible Improvements
 4. Convert the output into a full-scre
 
 
-Author
+## Author
 
 Arnav Mishra
 
 
-License
+## License
 
 This project is intended for learning and personal use.
 
